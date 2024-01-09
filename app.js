@@ -1,1 +1,1 @@
-cost document = get frameElement
+var a = "name"
